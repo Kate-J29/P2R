@@ -1,0 +1,6 @@
+data/food-101
+data/food-101.tar.gz
+data/full_dataset.csv
+data/modelbest.ckpt
+data/instr_vocab.pkl
+data/ingr_vocab.pkl
